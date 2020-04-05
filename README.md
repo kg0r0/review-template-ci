@@ -1,5 +1,7 @@
 # Re:VIEW Template
 
+![build Re:VIEW PDF](https://github.com/kg0r0/review-template-ci/workflows/build%20Re:VIEW%20PDF/badge.svg)
+
 このリポジトリはRe:VIEW用の書籍テンプレートです。Re:VIEWバージョン3.0に対応します。
 メンテナンスはTechBoosterが行っています。
 
