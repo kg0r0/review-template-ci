@@ -1,5 +1,5 @@
 name: build Re:VIEW PDF
-on: [push]
+on: [push, pull_request]
 jobs:
   build:
     name: generate PDF
